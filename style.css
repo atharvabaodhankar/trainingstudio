@@ -19,7 +19,7 @@
 }
 
 header {
-    background-image: url(/background-header.jpg);
+    background-image: url(background-header.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -251,7 +251,7 @@ nav ul li {
     justify-content: center;
     flex-direction: column;
     text-align: center;
-    background-image: url(/become-member.jpg);
+    background-image: url(become-member.jpg);
     background-size: cover;
     background-position: center;
     height: 70vh;
